@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # stage changes
-git _
+git add -A
 
 # commit changes
-git _
+git commit -m "committing flow.sh using script in workflow exercise."
 
 # push changes
-git _
+git push origin main
